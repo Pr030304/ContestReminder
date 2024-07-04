@@ -5,8 +5,8 @@ This repository contains code for building a Discord Bot which keeps you updated
 
 ## Features
 
-- Fetches upcoming programming contests from Clist API
-- Displays a list of upcoming contests
+- Fetches upcoming programming contests from CLIST API
+- Displays a list of upcoming programming contests
 - Allows users to set reminders for specific contests
 - Sends reminder notifications 30 minutes before the contest starts
 
@@ -16,7 +16,7 @@ This repository contains code for building a Discord Bot which keeps you updated
 
     ```bash
     git clone https://github.com/Pr030304/ContestReminder.git
-    cd contest-reminder-bot
+    cd ContestReminder
     ```
 
 2. **Install dependencies**:
