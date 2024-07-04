@@ -15,14 +15,15 @@ This repository contains code for building a Discord Bot which keeps you updated
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/contest-reminder-bot.git
+    git clone https://github.com/Pr030304/ContestReminder.git
     cd contest-reminder-bot
     ```
 
 2. **Install dependencies**:
 
     ```bash
-    npm install
+    npm install axios discord.js node-cron dotenv
+
     ```
 
 3. **Create a `.env` file** in the root directory with the following content:
